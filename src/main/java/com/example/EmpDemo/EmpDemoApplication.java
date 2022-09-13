@@ -9,7 +9,7 @@ public class EmpDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmpDemoApplication.class, args);
 
-	System.out.println("Hi this is first emp demo");
+	System.out.println("Hi this is first emp demo project");
 
 	}
 }
